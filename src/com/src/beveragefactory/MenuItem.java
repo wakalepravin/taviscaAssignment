@@ -11,7 +11,7 @@ public class MenuItem {
 	private Double itemPrice;
 	
 	public MenuItem() {
-	
+
 	}
 	public MenuItem(String itemName, String ingList, Double price) {
 	
