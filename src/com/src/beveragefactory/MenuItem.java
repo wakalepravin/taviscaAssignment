@@ -9,7 +9,7 @@ public class MenuItem {
 	private String itemName;
 	private List<String> itemIng = new ArrayList<String>();
 	private Double itemPrice;
-	
+
 	public MenuItem() {
 
 	}
